@@ -94,11 +94,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                           padding: const EdgeInsetsDirectional.fromSTEB(
                               16.0, 16.0, 16.0, 0.0),
                           child: Text(
-                            FFLocalizations.of(context).getText(
-                              'duvfnuh1' /* Your updates 
-for today ! */
-                              ,
-                            ),
+                          "demo test",
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
