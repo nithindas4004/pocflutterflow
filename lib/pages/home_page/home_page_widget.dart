@@ -94,7 +94,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                           padding: const EdgeInsetsDirectional.fromSTEB(
                               16.0, 16.0, 16.0, 0.0),
                           child: Text(
-                          "demo test",
+                          "demo",
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
